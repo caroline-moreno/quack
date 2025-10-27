@@ -334,16 +334,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-## 📞 Contato
-
-**DSIN - Divisão Secreta de Investigação**
-
-- 📧 Email: contato@dsin.gov.br
-- 🌐 Website: https://dsin.gov.br
-- 📱 Discord: [Servidor DSIN](https://discord.gg/dsin)
-
----
-
 ## 🙏 Agradecimentos
 
 - Tecnologia alienígena fornecida pela **Federação Galáctica**
@@ -358,12 +348,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **⚠️ CLASSIFICAÇÃO: ALTO SEGREDO ⚠️**
 
-*Este projeto é parte de uma operação secreta da DSIN.*
+*Este projeto é parte de uma operação secreta da Equipe A10.*
 *O uso não autorizado pode resultar em consequências graves.*
 
 ---
 
-Feito com 💙 e muita 🦆 pela equipe DSIN
+Feito com 💙 e muita 🦆 pela equipe A10
 
 **[⬆ Voltar ao topo](#-operação-patos-primordiais)**
 
